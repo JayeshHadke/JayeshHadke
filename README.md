@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[](https://www.canva.com/design/DAFOogM-l6I/view)
+[link](https://www.canva.com/design/DAFOogM-l6I/view)
